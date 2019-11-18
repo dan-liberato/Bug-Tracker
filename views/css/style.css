@@ -1,0 +1,46 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.text-color {
+    color: #FFFFFF !important;
+}
+
+/* Navbar background */
+.bg-light {
+    background-color: #f900e7;
+    background-image: linear-gradient(45deg, #f900e7 0%, #26a8e0 100%);
+    box-shadow: 0 1px 15px rgba(0,0,0,0.4);
+}
+
+/* Navbar List */
+.list {
+    display: flex;
+}
+.item {
+    margin: auto; color: #fff;
+}
+.-github-link {
+    font-size: 1.6em;
+}
+/* Fontawesome */
+.fab {
+    color: rgba(255,255,255,0.5);
+}
+.fab:hover{
+    color: rgba(255,255,255);
+}
+
+/* Page Content */
+.--content {
+    min-height: 100vh;
+}
+.description{
+    line-height: 26px;
+}
+
+/* Footer */
+.site-footer {
+    background: #373F50;
+    color: #fff;
+}
