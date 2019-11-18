@@ -8,8 +8,6 @@ Repositório criado para acompanhar as aulas do <strong> Fullstack Lab </strong>
 
 O projeto foi criado com <strong>Node</strong>, <strong>Express</strong>, <strong>EJS</strong>, <strong>SendGrid API</strong> e <strong>Google Sheets API</strong>, os dados são armazenados nas Planilhas Google.
 
-<br/><br/>
-
 > <https://bugtracker.danielrcliberato.now.sh>
 
 <br/>
